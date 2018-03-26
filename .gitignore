@@ -56,3 +56,14 @@ docs/_build/
 .ipynb_checkpoints
 *.DS_Store
 
+/CL1_as_image.hspy
+/CL1_as_image.tif
+/astronaut.hdf5
+/bare_core.hdf5
+/core_shell.hdf5
+/HyperSpy_demos_EDX_TEM_files.zip
+/machine_learning.zip
+/smoothly_moving_peaks.hspy
+/two_peaks.hspy
+/wobbly_peak.hspy
+*.gitignore
