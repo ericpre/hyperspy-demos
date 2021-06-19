@@ -4,6 +4,8 @@
 [![Notebook Viewer (nbviewer)](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg?sanitize=true)](http://nbviewer.ipython.org/github/hyperspy/hyperspy-demos/tree/master/)
 [![Documentation Status](https://readthedocs.org/projects/hyperspy/badge/?version=stable)](http://hyperspy.readthedocs.io/en/stable/?badge=stable)
 
+[![Live demos desktop (Binder)](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ericpre/hyperspy-demos/master?urlpath=%2Fdesktop)
+
 ## Introduction
 
 This repository contains [Jupyter Notebooks](http://jupyter.org/) to demo and learn

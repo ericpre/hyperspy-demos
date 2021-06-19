@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - hyperspy
+  - hyperspyui
+  - hyperspy-gui-ipywidgets
+  - ipympl
+  - scikit-learn
+  - pip
+
+  # Required for desktop view on mybinder.org
+  - websockify
+  - pip:
+    - jupyter-desktop-server
